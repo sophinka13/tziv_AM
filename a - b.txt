@@ -1,0 +1,9 @@
+# a - b == R1 0- R2
+#inicialne hodnoty
+
+a1a1a1a1a1
+a2a2a2a2
+
+# vypocet
+(a3 s1)1 # presun 
+(s3 s2)2 
