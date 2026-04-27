@@ -1,0 +1,9 @@
+# a + b == R1 + R2 -> R3
+#inicialne hodnoty
+
+a1a1a1a1a1
+a2a2a2a2
+
+# vypocet
+(a3 a10 s1)1 (a1 s10)10 #kopirovanie a10 je pomocný register
+(a3 a10 s2)2 (a2 s10)10
