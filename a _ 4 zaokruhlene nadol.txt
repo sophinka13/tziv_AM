@@ -1,0 +1,9 @@
+# a / 4 == R1 / 4 -> R3 zaokruhlene nadol
+#inicialne hodnoty
+
+a1a1a1a1 a1a1a1a1
+#a2a2a2a2
+
+# vypocet
+s1s1s1
+(a3 s1s1s1s1)1
